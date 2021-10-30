@@ -7,3 +7,6 @@ Yet...
 Changing in another file to avoid conflicts
 
 Here a change
+Here a change
+Here a change
+Here a change
